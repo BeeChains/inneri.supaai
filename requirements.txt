@@ -1,0 +1,6 @@
+streamlit
+requests
+bittensor
+fastapi
+uvicorn
+anthropic
