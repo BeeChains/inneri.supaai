@@ -102,7 +102,7 @@ def get_hns_price():
 st.header('Enter your Claude AI API Key')
 claude_api_key = st.text_input('API Key:', type='password')
 
-st.header("SupaAI with Claude AI")
+st.header("Ask SupaAI")
 user_message = st.text_area("Your Message:")
 
 if user_message and claude_api_key and st.button('Send'):
