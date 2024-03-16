@@ -6,4 +6,4 @@
 
 ## [APP.SUPAAI/](http://app.supaai.hns.to/)
 
-https://inneri-supaai.streamlit.app/?embed_options=dark_theme,show_toolbar,show_padding,show_footer,show_colored_line
+[InnerI SupaAI Streamlit App](https://inneri-supaai.streamlit.app/?embed_options=dark_theme,show_toolbar,show_padding,show_footer,show_colored_line)
