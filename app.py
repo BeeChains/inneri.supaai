@@ -102,7 +102,7 @@ def get_hns_price():
 st.header('Enter your Claude AI API Key')
 claude_api_key = st.text_input('API Key:', type='password')
 
-st.header("Ask SupaAI")
+st.header("Ask Inner I SupaAI")
 user_message = st.text_area("Your Message:")
 
 if user_message and claude_api_key and st.button('Send'):
@@ -120,7 +120,7 @@ if user_message and claude_api_key and st.button('Send'):
         )
         
         # Display the response from Claude AI
-        st.write('SupaAI says:', message.content)
+        st.write('Inner I SupaAI says:', message.content)
 
     except Exception as e:
         st.error(f"An error occurred: {str(e)}")
